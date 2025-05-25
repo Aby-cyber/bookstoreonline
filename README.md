@@ -74,7 +74,7 @@ OnlineBookstore
 - Maven for project management
 
 ## Author
-[Your Name] - [Your Email] - [Your GitHub Profile] 
+abdisa Gezachew ATE/8189/13 github Aby-cyber
 
 ## License
 This project is licensed under the MIT License.
